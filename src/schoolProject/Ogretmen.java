@@ -53,7 +53,7 @@ public class Ogretmen {
                     break ;
                 case "a" :
                 case "A" :
-                   // Depo.anaMenu();
+                   Depo.anaMenu();
                     break ;
                 case "q" :
                 case "Q" :
@@ -63,7 +63,7 @@ public class Ogretmen {
             }
 
         }while(!tercih.equalsIgnoreCase("q"));
-       // Depo.projeDurdur();
+        Depo.projeDurdur();
     }
 
     public static void tcNoIleOgretmenSil() {
