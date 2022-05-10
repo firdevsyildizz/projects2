@@ -1,4 +1,4 @@
-package javaBankAtm02;
+package javaBankAtm.javaBankATM02;
 
 public class Task {
     /*

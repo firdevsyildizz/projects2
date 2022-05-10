@@ -1,4 +1,4 @@
-package javaBankAtm02;
+package javaBankAtm.javaBankATM02;
 
 public class JavaBankAtm { /*      ATM
         1-Kullaniciya giriş için kart numarasi ve şifresini isteyin,
