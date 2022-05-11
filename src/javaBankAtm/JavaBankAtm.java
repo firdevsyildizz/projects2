@@ -99,7 +99,7 @@ import java.util.Scanner;
     }
 
 
-    private static void sifreDegistir() {
+    public static void sifreDegistir() {
 
         System.out.println("Lutfen eski sifrenizi dogrulayiniz...");
         int sifre = scan.nextInt();
